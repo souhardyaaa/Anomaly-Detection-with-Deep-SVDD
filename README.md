@@ -44,4 +44,4 @@ The integration of **LeNet**, **architectural optimizations**, and **Mixed Preci
 ---
 
 ## **Acknowledgments**
-This work is inspired by **DeepSVDD** and aims to improve its **efficiency and performance** for real-world applications.
+This work is inspired by [**DeepSVDD**](https://proceedings.mlr.press/v80/ruff18a.html) and aims to improve its **efficiency and performance** for real-world applications.
